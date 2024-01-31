@@ -142,12 +142,12 @@ body{
     input[id="card-number"]::placeholder{
         color: #b5b5b5;
         font-size: 30px;
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-family: 'Space Mono', monospace;
     }
 
     input::placeholder{
         color: #b5b5b5;
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-family: 'Space Mono', monospace;
     }
 
     .group{
@@ -282,7 +282,7 @@ body{
     input:focus{
         border-bottom: 2px solid white;
         outline: none;
-        font-family: 'Courier New', Courier, monospace;
+        font-family: 'Space Mono', monospace;
         border: none;
         color: white;
         font-size: 16px;
@@ -293,7 +293,7 @@ body{
     input:hover{
         border-bottom: 2px solid white;
         outline: none;
-        font-family: 'Courier New', Courier, monospace;
+        font-family: 'Space Mono', monospace;
         border: none;
         color: white;
         font-size: -2px;
@@ -402,7 +402,7 @@ body{
         color: white;
         font-size: 12px;
         font-weight: normal;
-        font-family: 'Courier New', Courier, monospace;
+        font-family: 'Space Mono', monospace;
         pointer-events: none;
         /* display: block; */
         padding-bottom: 2px;
